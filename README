@@ -1,6 +1,6 @@
 plotta24
 
-Konvertera ett enkelt csv-format till kml för att plotta i Google Earth
+Konvertera ett enkelt csv-format till kml fÃ¶r att plotta i Google Earth
 
 
 Usage: 
@@ -9,6 +9,6 @@ $ ruby rundningar2earth.rb  > plott.kml
 
 File formats
 rundningar.csv:
-Krets,Segling,Period,Startpunkt,Båtnamn,Skepparnamn,Punkt1,Punkt2,...,SistaPunkten
+Krets,Segling,Period,Startpunkt,BÃ¥tnamn,Skepparnamn,Punkt1,Punkt2,...,SistaPunkten
 
-Värden i rundningar.csv får vara omslutna med citattecken.
+VÃ¤rden i rundningar.csv fÃ¥r vara omslutna med citattecken. 
